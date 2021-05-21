@@ -18,7 +18,6 @@ from werkzeug.utils import secure_filename
 from gtts import gTTS
 
 ## STEP 2: Modify code to your needs:
-* Change file path in lines 97, 98, 130, 139
 * Change IP address in the START_SERVER.bat file
 * Change IP address to yours in 'get_json.js' inside 'static' folder
 * Change IP address to yours in 'index.html' inside 'templates' folder
