@@ -27,6 +27,17 @@ from gtts import gTTS
 ## STEP 3: connect up to 2 usb cameras and run 'START_SERVER.bat'
 * Open browser, go to http://[ip address]:[portnumber] to see live feed, access camera archives, and server files. You can also use the new better UI.
 
+## CONTROLS:
+
+* You can click on 'Camera Archive' to view .mp4 clips of recordings that were tripped by your camera
+* You can click on 'Family Server' to view a Drag&Drop interface to quickly upload files and share with anyone on your network
+
+* 'Indoor Security' switch ON (When you're not home) --> Will save pictures of anyfaces detected. Applies to Camera #2 only
+* 'Indoor Security' switch OFF (When you're home) --> You can still preview live and will run facial detection, but will not save anything
+
+* 'Outdoor Security' switch ON --> Will give audio alerts! Will also take ~10sec clips and save to server when motion is triggered 
+* 'Outdoor Security' switch OFF --> Will block audio alerts! Will record any video, but you can still preview live
+
 ## STEP 4 (OPTIONAL): Haar classifers
 * Comment lines 21/22 depending on what haar classifier you want to use for USB camera #2
 
