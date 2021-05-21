@@ -6,16 +6,16 @@ Using Python Flask backend and with HTML/JS/CSS frontend. Able to efficiently ha
 * Using JQuery JS in the backend to allow download links to .mp4 files
 
 ## Step1: Install all of these modules:
-From flask import Flask, render_template, Response, request, jsonify
-import cv2
-import threading
-from datetime import datetime
-import os
-import shutil
-import json
-import psutil
-from werkzeug.utils import secure_filename
-from gtts import gTTS
+* From flask import Flask, render_template, Response, request, jsonify
+* import cv2
+* import threading
+* from datetime import datetime
+* import os
+* import shutil
+* import json
+* import psutil
+* from werkzeug.utils import secure_filename
+* from gtts import gTTS
 
 ## STEP 2: Modify code to your needs:
 * Change IP address in the START_SERVER.bat file
