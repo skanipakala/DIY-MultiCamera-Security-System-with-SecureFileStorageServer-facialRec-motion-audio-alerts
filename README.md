@@ -5,6 +5,11 @@ Using Python Flask backend and with HTML/JS/CSS frontend. Able to efficiently ha
 * Primarily using openCV and Flask module to create a LAN server that will stream multiple USB camera live feeds, while allowing user to download motion triggered footage directly from any device on the network. Also has a built in file server so you can upload any file from any device on the network. This is to help family members quickly share files.
 * Using JQuery JS in the backend to allow download links to .mp4 files
 
+![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/archive_image.PNG)
+![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/home_screen.PNG)
+![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/server.PNG)
+
+
 ## Step1: Install all of these modules:
 * From flask import Flask, render_template, Response, request, jsonify
 * import cv2
