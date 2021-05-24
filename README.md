@@ -6,8 +6,9 @@ Using Python Flask backend and with HTML/JS/CSS frontend. Able to efficiently ha
 * Using JQuery JS in the backend to allow download links to .mp4 files
 
 ![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/home_screen.PNG)
-![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/archive_image.PNG)
 ![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/server.PNG)
+![alt text](https://github.com/skanipakala/DIY-MultiCamera-Security-System-with-SecureFileStorageServer-facialRec-motion-audio-alerts/blob/main/archive_image.PNG)
+
 
 
 ## Step1: Install all of these modules:
